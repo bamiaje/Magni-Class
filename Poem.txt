@@ -2,4 +2,6 @@ The rainbow
 Purple
 Green 
 Red
+Yellow
+Orange
 Colors of rainbow are so many and beautiful
