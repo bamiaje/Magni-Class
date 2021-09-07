@@ -1,0 +1,2 @@
+# Magni-Class
+Love learning
